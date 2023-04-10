@@ -1,5 +1,5 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Week 11 mini project
+A binary tree node implemented by Rust
 
 ## References
 
